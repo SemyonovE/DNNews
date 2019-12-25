@@ -1,0 +1,19 @@
+{
+    "status": "ok",
+    "totalResults": 0,
+    "articles": [
+        {
+            "source" : {
+                "id" : null,
+                "name" : "Gazeta.ru"
+            },
+            "author" : "Маргарита Герасюкова",
+            "urlToImage" : "https://img.gazeta.ru/files3/468/12881468/game-pic905-895x505-62076.jpg",
+            "content" : "Apple,  Apple Arcade, . Patently Apple, , «» , .rn $5 . ( 310 . .). , , . rn Apple , , WWDC 2020 . rn , Apple .   -    iOS, Apple Arcade. Arcade 100 , , . rn Apple , . rn ,   - macOS. ,   Newzoo,  ,  , , 443,1   $1,1 .rn, Apple ,   —  , . , MacBook, Windows ,… [+176 chars]",
+            "title" : "СМИ: Apple готовит компьютер для киберспорта",
+            "publishedAt" : "2019-12-24T16:56:44Z",
+            "description" : "Компания Apple продолжает осваивать все новые рынки - если верить инсайдерам, \"яблоко\" готовит к выпуску игровой компьютер, предназначенный специально для киберспортсменов. Стоимость такого устройства предположительно составит $5 тыс., а увидеть его можно буд…",
+            "url" : "https://www.gazeta.ru/tech/2019/12/24/12881330/apple_gaming.shtml"
+        },
+    ]
+}
